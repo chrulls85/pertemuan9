@@ -1,6 +1,6 @@
-# pemmob9
+# Praktikum 9
 
-pertemuan 9
+Praktikum pertemuan 9 Pemrograman Mobile
 
 ## Getting Started
 
@@ -15,3 +15,5 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+
+#Link domain percobaan pertemuan 9: (https://pertemuan9-nu.vercel.app/)
